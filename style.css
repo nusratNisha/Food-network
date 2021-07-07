@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -30,3 +31,8 @@ section{
     background-image: url(food-network-main/images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
+.about-us{
+    background-image: url(food-network-main/images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
