@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orangered;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -36,3 +36,6 @@ section{
     background-repeat: no-repeat;
 }
 
+.manue{
+    text-align: ;
+}
